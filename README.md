@@ -15,11 +15,6 @@ Please read the [Study Overview.pdf](./Recruitment/Study%20Overview.pdf) first f
 ### Study Overview
 This research evaluates how answering questions about peer code solutions affects a student's understanding of programming topics. The goal is to provide a reviewing resource that helps students better understand code written by themselves or their peers.
 
-### Participation & Eligibility
-* **Eligibility:** You must be 18+ years old and currently enrolled in the selected undergraduate programming course.
-* **Format:** Participants are randomly assigned to one of two condition groups. You will complete short, weekly exercises (5–20 minutes) and provide feedback on their quality.
-* **Voluntary Nature:** Participation is voluntary. Choosing not to participate or withdrawing will **not** affect your academic standing or performance.
-
 ### Extra Credit & Equivalency
 * **Extra Credit:** Students who complete and provide feedback on all exercises receive extra credit.
 * **Equivalency:** If you choose not to participate in the research, you can still complete the same tasks for the **same extra credit opportunity**. In this case, your data will be used for grading only and excluded from research analysis.
