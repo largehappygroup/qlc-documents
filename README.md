@@ -9,7 +9,7 @@ Regardless of which option you choose, you must complete the sign-up tasks below
 | :--- | :--- | :--- |
 | **Description** | Data will be used for research analysis and grading | Data will strictly be used for grading |
 | **Eligibility** | At least 18 years old and enrolled in CS 1101 for Spring 2026 | Enrolled in CS 1101 for Spring 2026 |
-| **To-do by March 4th at 11:59pm** | 1. Sign the Consent Form<br> 2. Register on the Web App | 1. Register on the Web App |
+| **To-do by March 4th at 11:59pm** | 1. Sign the [Consent Form](https://redcap.vumc.org/surveys/?s=XEFPCEMRC88947AR)<br> 2. Register on the Web App | 1. Register on the Web App |
 
 Links to the consent form and the website application are found at the bottom of this README.
 
