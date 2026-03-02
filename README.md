@@ -1,5 +1,28 @@
 # Questions on Learner’s Code (QLCs)
-Please read the [Study Overview.pdf](./Recruitment/Study%20Overview.pdf) first for a summary of all extra credit and research study details. Additional links below.
+You are invited to participate in an extra credit opportunity associated with a research study about Questions on Learner’s Code (QLCs). Everyone enrolled in CS 1101 can earn +0.5% extra credit toward their final grade by completing the tasks outlined below. You can choose to participate in the research study (if eligible) or complete the tasks for credit only. Participation is voluntary and will not impact your academic standing or performance. 
+Regardless of which option you choose, you must complete the sign-up tasks below by 
+<h1 align="center">March 4th, 2026 at 11:59pm.</h1>
+
+## How to Participate:
+
+| Feature | Option: Research Study + Extra Credit | Option: Extra Credit Only |
+| :--- | :--- | :--- |
+| **Description** | Data will be used for research analysis and grading | Data will strictly be used for grading |
+| **Eligibility** | At least 18 years old and enrolled in CS 1101 for Spring 2026 | Enrolled in CS 1101 for Spring 2026 |
+| **To-do by March 4th at 11:59pm** | 1. Sign the Consent Form<br> 2. Register on the Web App | 1. Register on the Web App |
+
+Links to the consent form and the website application are found at the bottom of this README.
+
+### Incentive & Expectations: 
+If you complete all expectations successfully, we will provide you with extra credit (+0.5%) towards your final grade for this course. Additionally, you will gain an additional reviewing resource for the course material. 
+
+* **Complete 90% of weekly exercises:** these are based on coding solutions from previously submitted programming assignments.
+* **Keep track of due dates:** exercises and feedback are due the same day as the next programming assignment
+* **Provide quality feedback:** rate the clarity of exercise questions and complete a feedback form (issued every week) regarding the QLC experience.
+
+### Contact:
+CS 1101 instructors will not have access to any data related to students’ progress or performance for this study. They will not receive the list of students who earned the extra credit until after the final exam. All questions related to the research study and the extra credit should be directed to Helen Wu: helen.wu@vanderbilt.edu.
+
 ### Resources & Links
 
 | Resource | Description | Link |
@@ -9,30 +32,3 @@ Please read the [Study Overview.pdf](./Recruitment/Study%20Overview.pdf) first f
 | **Study Overview** | Description of the study | [View Document](./Recruitment/Study%20Overview.pdf) |
 | **Recruitment Slides** | Slides presented on March 2nd, 2026 | [View Document](./Recruitment/Recruitment%20Slides.pdf) |
 | **Instructional Doc** | Guide on how to use the application | [View Document](How%20to%20use%20the%20application.pdf) |
-
----
-
-### Study Overview
-This research evaluates how answering questions about peer code solutions affects a student's understanding of programming topics. The goal is to provide a reviewing resource that helps students better understand code written by themselves or their peers.
-
-### Extra Credit & Equivalency
-* **Extra Credit:** Students who complete and provide feedback on all exercises receive extra credit.
-* **Equivalency:** If you choose not to participate in the research, you can still complete the same tasks for the **same extra credit opportunity**. In this case, your data will be used for grading only and excluded from research analysis.
-
-### Expectations & Responsibilities
-* **Timeline:** The study lasts for the remaining academic semester.
-* **Tasks:** Log into the web application after each programming assignment to complete AI-generated reflective questions.
-* **Responsibilities:** You are responsible for tracking due dates, adhering to the academic honor code, and providing feedback on the resource.
-
-### Privacy & Confidentiality
-* **Data Collection:** We collect personal information (name, email, student ID) to link your work to your account. 
-* **Protection:** To minimize risk, identifying information will be destroyed once the course is complete and grades are submitted. De-identified data may be used for future research.
-* **Anonymity:** Instructors will not know who is participating in the research until after final grades are submitted.
-
----
-
-
-
-### Contact Information
-If you have questions, concerns, or wish to withdraw, please contact: **Helen Wu** (helen.wu@vanderbilt.edu).
-
