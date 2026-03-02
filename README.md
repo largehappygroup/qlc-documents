@@ -29,6 +29,5 @@ CS 1101 instructors will not have access to any data related to students’ prog
 | :--- | :--- | :--- |
 | **Consent Form** | Required for research participants (18+) | [Sign Here](https://redcap.vumc.org/surveys/?s=XEFPCEMRC88947AR) |
 | **Web Application** | Platform for weekly exercises | [Access App](https://helen.cumberland.isis.vanderbilt.edu/) |
-| **Study Overview** | Description of the study | [View Document](./Recruitment/Study%20Overview.pdf) |
 | **Recruitment Slides** | Slides presented on March 2nd, 2026 | [View Document](./Recruitment/Recruitment%20Slides.pdf) |
 | **Instructional Doc** | Guide on how to use the application | [View Document](How%20to%20use%20the%20application.pdf) |
